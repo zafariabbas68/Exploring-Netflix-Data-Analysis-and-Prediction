@@ -229,5 +229,13 @@ Alternatively, run individual Python scripts in your terminal to generate specif
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+Contact
+
+For any inquiries or issues, please contact:
+
+Author: Ghulam Abbas Zafari
+Email: ghulamabbas.zafari@mail.polimi.it
+
 ---
 
