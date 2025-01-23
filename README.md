@@ -1,6 +1,4 @@
-Here is a detailed **`README.md`** for your **Exploring Netflix Data Analysis and Prediction** project that includes the usage examples for each of the figures present in your project folder.
 
----
 
 # Exploring Netflix Data Analysis and Prediction
 
