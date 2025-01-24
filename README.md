@@ -1,6 +1,6 @@
 
 
-# Exploring Netflix Data Analysis and Prediction
+# Exploring Netflix:  Data Analysis and Prediction
 
 This repository presents a comprehensive analysis of Netflix's content, exploring various attributes such as content types, genres, countries, release years, ratings, and durations. Additionally, visualizations like bar charts, pie charts, word clouds, and heatmaps help illustrate insights from the data.
 
